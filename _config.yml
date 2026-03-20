@@ -15,11 +15,11 @@
 #   in _config.yml. It will appear in your document head meta (for Google search
 #   results) and in your feed.xml site description.
 
-title: Open Coding 
+title: TDWolff Pages
 description: "Class of 2026"
-owner_name: Open Coding Society 
-github_username: open-coding-society 
-github_repo: "pages" 
+owner_name: Torin Wolff
+github_username: TDWolff
+github_repo: "pages-csse-2" 
 baseurl: "" 
 future: true
 
